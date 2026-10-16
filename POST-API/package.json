@@ -1,0 +1,12 @@
+{
+  "name": "post-api-practice",
+  "version": "1.0.0",
+  "description": "10 Express.js POST API practice routes for Thunder Client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
